@@ -1,12 +1,12 @@
 {
   "colors": [
     {
-      "bg": "#3b5c24, nonblending",
-      "grnd": "#40721d, nonblending",
+      "bg": "#ffffff, nonblending",
+      "grnd": "#ffffff, nonblending",
       "grnd2": "#ffffff, nonblending",
       "line": "#ffffff, blending",
       "obj": "#ffffff, nonblending",
-      "col1": "#ffff00, blending",
+      "col1": "#ffffff, nonblending",
       "col2": "#ffffff, nonblending",
       "col3": "#ffffff, nonblending",
       "col4": "#ffffff, nonblending",
@@ -30,33 +30,48 @@
   ],
   "objects": [
     {
-      "objectID": "149",
-      "pos": "70, 0",
-      "colorID": "playercol2",
-      "groupID": "0",
-      "layer": "B2",
-      "zLayer": "1",
-      "propertyID": "pulsor",
-    },
-    {
-      "objectID": "216",
-      "pos": "70, 0",
+      "objectID": "142",
+      "pos": "50, 0",
       "colorID": "obj",
-      "color2ID": "col1",
       "groupID": "0",
       "layer": "T1",
-      "zLayer": "5",
-      "propertyID": "spike"
-    },
+      "zLayer": "1",
+      "propertyID": "secretcoin",
+      "targetID": "0",
+      "uniqueID": "1"
+    }
     {
-      "objectID": "217",
+      "objectID": "142",
       "pos": "80, 0",
       "colorID": "obj",
-      "color2ID": "col1",
       "groupID": "0",
       "layer": "T1",
-      "zLayer": "5",
-      "propertyID": "spike"
+      "zLayer": "1",
+      "propertyID": "secretcoin",
+      "targetID": "0",
+      "uniqueID": "2"
+    }
+    {
+      "objectID": "142",
+      "pos": "110, 0",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "secretcoin",
+      "targetID": "0",
+      "uniqueID": "3"
+    }
+    {
+      "objectID": "142",
+      "pos": "140, 0",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "secretcoin",
+      "targetID": "0",
+      "uniqueID": "4"
     }
   ]
 }

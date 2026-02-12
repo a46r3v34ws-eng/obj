@@ -1,12 +1,12 @@
 {
   "colors": [
     {
-      "bg": "#3b5c24, nonblending",
-      "grnd": "#40721d, nonblending",
+      "bg": "#ffffff, nonblending",
+      "grnd": "#ffffff, nonblending",
       "grnd2": "#ffffff, nonblending",
       "line": "#ffffff, blending",
       "obj": "#ffffff, nonblending",
-      "col1": "#ffff00, blending",
+      "col1": "#ffffff, nonblending",
       "col2": "#ffffff, nonblending",
       "col3": "#ffffff, nonblending",
       "col4": "#ffffff, nonblending",
@@ -30,33 +30,53 @@
   ],
   "objects": [
     {
+      "objectID": "218",
+      "pos": "10, 0",
+      "colorID": "obj",
+      "color2ID": "col1",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "5",
+      "propertyID": "spike",
+    },
+    {
+      "objectID": "8",
+      "pos": "20, 0",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "5",
+      "propertyID": "spike",
+      "targetID": "0",
+      "uniqueID": "2"
+    },
+    {
       "objectID": "149",
-      "pos": "70, 0",
-      "colorID": "playercol2",
+      "pos": "20, 0",
+      "color2ID": "obj",
       "groupID": "0",
       "layer": "B2",
-      "zLayer": "1",
+      "zLayer": "-7",
       "propertyID": "pulsor",
     },
     {
-      "objectID": "216",
-      "pos": "70, 0",
-      "colorID": "obj",
-      "color2ID": "col1",
+      "objectID": "148",
+      "pos": "20, 30",
+      "color2ID": "obj",
       "groupID": "0",
-      "layer": "T1",
-      "zLayer": "5",
-      "propertyID": "spike"
+      "layer": "B2",
+      "zLayer": "-7",
+      "propertyID": "pulsor",
     },
     {
-      "objectID": "217",
-      "pos": "80, 0",
+      "objectID": "218",
+      "pos": "30, 0",
       "colorID": "obj",
       "color2ID": "col1",
       "groupID": "0",
       "layer": "T1",
       "zLayer": "5",
-      "propertyID": "spike"
+      "propertyID": "spike",
     }
   ]
 }
