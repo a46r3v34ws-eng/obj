@@ -1,31 +1,23 @@
-{
+{   
+  "settings": [
+      {
+          "gameVersion": "1.6",
+          "length": "Tiny",
+          "gamemode": "cube",
+          "minimode": "true",
+          "backgroundID": "01",
+          "groundID": "01",
+          "lineID": "01",
+          "officialsongID": "3"
+      }
+  ],
   "colors": [
     {
       "bg": "#ffffff, nonblending",
       "grnd": "#ffffff, nonblending",
       "grnd2": "#ffffff, nonblending",
       "line": "#ffffff, blending",
-      "obj": "#ffffff, nonblending",
-      "col1": "#ffffff, nonblending",
-      "col2": "#ffffff, nonblending",
-      "col3": "#ffffff, nonblending",
-      "col4": "#ffffff, nonblending",
-      "col5": "#ffffff, nonblending",
-      "col6": "#ffffff, nonblending",
-      "col7": "#ffffff, nonblending",
-      "col8": "#ffffff, nonblending",
-      "col9": "#ffffff, nonblending",
-      "col10": "#ffffff, nonblending",
-      "col11": "#ffffff, nonblending",
-      "col12": "#ffffff, nonblending",
-      "col13": "#ffffff, nonblending",
-      "col14": "#ffffff, nonblending",
-      "col15": "#ffffff, nonblending",
-      "col16": "#ffffff, nonblending",
-      "col17": "#ffffff, nonblending",
-      "col18": "#ffffff, nonblending",
-      "col19": "#ffffff, nonblending",
-      "col20": "#ffffff, nonblending"
+      "obj": "#ffffff, nonblending"
     }
   ],
   "objects": [
