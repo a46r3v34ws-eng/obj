@@ -1,15 +1,15 @@
 {
   "settings": [
-      {
-          "gameVersion": "1.7",
-          "length": "Tiny",
-          "gamemode": "cube",
-          "minimode": "true",
-          "speed": "1x",
-          "backgroundID": "04",
-          "groundID": "04",
-          "officialsongID": "1"
-      }
+    {
+      "gameVersion": "1.7",
+      "length": "Tiny",
+      "gamemode": "cube",
+      "minimode": "true",
+      "speed": "1x",
+      "backgroundID": "04",
+      "groundID": "04",
+      "officialsongID": "1"
+    }
   ],
   "colors": [
     {
@@ -29,7 +29,7 @@
       "groupID": "0",
       "layer": "B2",
       "zLayer": "1",
-      "propertyID": "pulsor",
+      "propertyID": "pulsor"
     },
     {
       "objectID": "216",

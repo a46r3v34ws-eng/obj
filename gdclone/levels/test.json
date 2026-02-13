@@ -1,15 +1,15 @@
 {
   "settings": [
-      {
-          "gameVersion": "1.7",
-          "length": "Tiny",
-          "gamemode": "cube",
-          "minimode": "true",
-          "speed": "1x",
-          "backgroundID": "01",
-          "groundID": "01",
-          "officialsongID": "a1"
-      }
+    {
+      "gameVersion": "1.7",
+      "length": "Tiny",
+      "gamemode": "cube",
+      "minimode": "true",
+      "speed": "1x",
+      "backgroundID": "01",
+      "groundID": "01",
+      "officialsongID": "a1"
+    }
   ],
   "colors": [
     {
@@ -30,7 +30,7 @@
       "groupID": "0",
       "layer": "T1",
       "zLayer": "5",
-      "propertyID": "spike",
+      "propertyID": "spike"
     },
     {
       "objectID": "8",
@@ -50,7 +50,7 @@
       "groupID": "0",
       "layer": "B2",
       "zLayer": "-7",
-      "propertyID": "pulsor",
+      "propertyID": "pulsor"
     },
     {
       "objectID": "148",
@@ -59,7 +59,7 @@
       "groupID": "0",
       "layer": "B2",
       "zLayer": "-7",
-      "propertyID": "pulsor",
+      "propertyID": "pulsor"
     },
     {
       "objectID": "218",
@@ -69,7 +69,7 @@
       "groupID": "0",
       "layer": "T1",
       "zLayer": "5",
-      "propertyID": "spike",
+      "propertyID": "spike"
     }
   ]
 }
