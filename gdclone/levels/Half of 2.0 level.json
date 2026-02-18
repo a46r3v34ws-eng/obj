@@ -1,0 +1,82 @@
+{
+  "settings": [
+      {
+          "gameVersion": "Half of 2.0",
+          "length": "Tiny",
+          "gamemode": "cube",
+          "minimode": "true",
+          "speed": "1x",
+          "backgroundID": "07",
+          "groundID": "07",
+          "lineID": "01",
+          "dualmode": "true",
+          "officialsongID": "3",
+          "songID": "0",
+          "songOffset": "0",
+          "songFadeIn": "false",
+          "songFadeOut": "false"
+      }
+  ],
+  "colors": [
+    {
+      "bg": "#287dff, nonblending",
+      "grnd": "#0066ff, nonblending",
+      "grnd2": "#0066ff, nonblending",
+      "line": "#ffffff, blending",
+      "obj": "#ffffff, nonblending",
+      "3dl": "#ffffff, nonblending",
+      "col1": "#ff0000, nonblending",
+      "col2": "#ffffff, nonblending",
+      "col3": "#ffffff, nonblending",
+      "col4": "#ffffff, nonblending",
+      "col5": "#ffffff, nonblending",
+      "col6": "#ffffff, nonblending",
+      "col7": "#ffffff, nonblending",
+      "col8": "#ffffff, nonblending",
+      "col9": "#ffffff, nonblending",
+      "col10": "#ffffff, nonblending",
+      "col11": "#ffffff, nonblending",
+      "col12": "#ffffff, nonblending",
+      "col13": "#ffffff, nonblending",
+      "col14": "#ffffff, nonblending",
+      "col15": "#ffffff, nonblending",
+      "col16": "#ffffff, nonblending",
+      "col17": "#ffffff, nonblending",
+      "col18": "#ffffff, nonblending",
+      "col19": "#ffffff, nonblending",
+      "col20": "#ffffff, nonblending"
+    }
+  ],
+  "objects": [
+    {
+      "objectID": "914",
+      "pos": "0, 30",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "text",
+      "textID": "UHJldmlldyBvZiBIYWxmIG9mIDIuMCAoYWthIDEuOTUtMS45OSk="
+    },
+    {
+      "objectID": "914",
+      "pos": "150, 30",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "text",
+      "textID": "U28gZmFyLCB0aGVyZSBhcmUgc3RpbGwgdGhlIDcgYmFja2dyb3VuZHMgYW5kIGdyb3VuZHMgZnJvbSAxLjcgdG8gMS45LCB3aGljaCBtaWdodCBub3QgY2hhbmdlIGZvciBub3cu"
+    },
+    {
+      "objectID": "914",
+      "pos": "0, 30",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "text",
+      "textID": "QnV0LCBoZXJlIGFyZSBzb21lIGJsb2NrcyBmcm9tIDEuOSB0byAyLjAh"
+    },
+  ]
+}
