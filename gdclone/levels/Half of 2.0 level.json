@@ -1,21 +1,21 @@
 {
   "settings": [
-      {
-          "gameVersion": "Half of 2.0",
-          "length": "Tiny",
-          "gamemode": "cube",
-          "minimode": "true",
-          "speed": "1x",
-          "backgroundID": "07",
-          "groundID": "07",
-          "lineID": "01",
-          "dualmode": "true",
-          "officialsongID": "3",
-          "songID": "0",
-          "songOffset": "0",
-          "songFadeIn": "false",
-          "songFadeOut": "false"
-      }
+    {
+      "gameVersion": "Half of 2.0",
+      "length": "Tiny",
+      "gamemode": "cube",
+      "minimode": "true",
+      "speed": "1x",
+      "backgroundID": "07",
+      "groundID": "07",
+      "lineID": "01",
+      "dualmode": "true",
+      "officialsongID": "3",
+      "songID": "0",
+      "songOffset": "0",
+      "songFadeIn": "false",
+      "songFadeOut": "false"
+    }
   ],
   "colors": [
     {
@@ -77,6 +77,6 @@
       "zLayer": "1",
       "propertyID": "text",
       "textID": "QnV0LCBoZXJlIGFyZSBzb21lIGJsb2NrcyBmcm9tIDEuOSB0byAyLjAh"
-    },
+    }
   ]
 }
