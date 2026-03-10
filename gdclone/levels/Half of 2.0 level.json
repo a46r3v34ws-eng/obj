@@ -50,7 +50,7 @@
   "objects": [
     {
       "objectID": "914",
-      "pos": "0, 30",
+      "pos": "0, -70",
       "colorID": "obj",
       "groupID": "0",
       "layer": "T1",
@@ -60,7 +60,7 @@
     },
     {
       "objectID": "914",
-      "pos": "150, 30",
+      "pos": "150, -70",
       "colorID": "obj",
       "groupID": "0",
       "layer": "T1",
@@ -70,13 +70,22 @@
     },
     {
       "objectID": "914",
-      "pos": "0, 30",
+      "pos": "290, -70",
       "colorID": "obj",
       "groupID": "0",
       "layer": "T1",
       "zLayer": "1",
       "propertyID": "text",
       "textID": "QnV0LCBoZXJlIGFyZSBzb21lIGJsb2NrcyBmcm9tIDEuOSB0byAyLjAh"
+    },
+    {
+      "objectID": "914",
+      "pos": "290, -120",
+      "colorID": "obj",
+      "groupID": "0",
+      "layer": "T1",
+      "zLayer": "1",
+      "propertyID": "speed"
     }
   ]
 }
