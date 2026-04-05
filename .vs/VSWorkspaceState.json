@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\extensions",
+    "\\extensions\\alt00001commentsplus",
     "\\gdclone",
     "\\gdclone\\levels"
   ],
+  "SelectedNode": "\\extensions\\alt00001commentsplus\\currentupdate.txt",
   "PreviewInSolutionExplorer": false
 }
